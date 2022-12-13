@@ -131,7 +131,6 @@ h2 {
 }
 
 .checker {
-  display: inline-block;
   width: 200px;
   margin: 0 auto;
 }
@@ -149,4 +148,8 @@ h2 {
 
 .false {
   background-color: #DC4437;
+}
+
+.checkAnswers h3 {
+ font-size: 2rem;
 }

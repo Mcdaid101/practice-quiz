@@ -70,7 +70,7 @@ window.onload = function () {
           loadQuestion(current);
           loadAnswers(current);
         } else {
-          questionArea.innerHTML = 'Done';
+          questionArea.innerHTML = 'Well done here is your final score';
           answerArea.innerHTML = '';
         }
                                 
