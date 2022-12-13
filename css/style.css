@@ -86,4 +86,10 @@ h2 {
   margin-left: 1rem;
 }
 
+/* How to play */
 
+#rules {
+  font-size: 5rem;
+  padding-bottom: 50px;
+  padding-left: 15px;
+}
